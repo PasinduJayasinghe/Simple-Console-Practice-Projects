@@ -1,0 +1,15 @@
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net8.0\RockPaperScissors.exe
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net8.0\RockPaperScissors.deps.json
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net8.0\RockPaperScissors.runtimeconfig.json
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net8.0\RockPaperScissors.dll
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net8.0\RockPaperScissors.pdb
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0\RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0\RockPaperScissors.AssemblyInfo.cs
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0\RockPaperScissors.sourcelink.json
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0\RockPaperScissors.dll
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0\refint\RockPaperScissors.dll
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0\RockPaperScissors.pdb
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0\RockPaperScissors.genruntimeconfig.cache
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0\ref\RockPaperScissors.dll
