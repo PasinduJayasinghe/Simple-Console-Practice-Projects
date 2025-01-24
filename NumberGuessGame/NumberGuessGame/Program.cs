@@ -19,11 +19,11 @@ namespace NumberGuessGame
                 Console.WriteLine("Enter your number");
 				int playerNumber;
 				String inputNumber = Console.ReadLine();
-				playerNumber=int.TryParse(inputNumber,out playerNumber);
+				playerNumber = (Convert.ToInt32(inputNumber));
                 randomNumber = random.Next(1,11);
 				Console.WriteLine("Random number from computer: "+randomNumber);
 			}
-
+			
 
 
         }

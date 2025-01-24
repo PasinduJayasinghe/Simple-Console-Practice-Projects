@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thisa\\OneDrive\\Desktop\\My Projects\\ConsoleAppPractice2\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F58AB881-357E-4694-98D9-0A1739E38A83}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\thisa\\onedrive\\desktop\\my projects\\consoleapppractice2\\consoleapp1\\consoleapp1\\areacalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F58AB881-357E-4694-98D9-0A1739E38A83}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\areacalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58AB881-357E-4694-98D9-0A1739E38A83}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\thisa\\onedrive\\desktop\\my projects\\consoleapppractice2\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F58AB881-357E-4694-98D9-0A1739E38A83}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 303,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AreaCalculation.cs",
+              "DocumentMoniker": "C:\\Users\\thisa\\OneDrive\\Desktop\\My Projects\\ConsoleAppPractice2\\ConsoleApp1\\ConsoleApp1\\AreaCalculation.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\AreaCalculation.cs",
+              "ToolTip": "C:\\Users\\thisa\\OneDrive\\Desktop\\My Projects\\ConsoleAppPractice2\\ConsoleApp1\\ConsoleApp1\\AreaCalculation.cs",
+              "RelativeToolTip": "ConsoleApp1\\AreaCalculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T06:09:09.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thisa\\OneDrive\\Desktop\\My Projects\\ConsoleAppPractice2\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\thisa\\OneDrive\\Desktop\\My Projects\\ConsoleAppPractice2\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T06:01:20.189Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 197,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
