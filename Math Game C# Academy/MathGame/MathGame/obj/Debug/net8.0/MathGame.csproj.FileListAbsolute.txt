@@ -1,0 +1,15 @@
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Math Game C# Academy\MathGame\MathGame\bin\Debug\net8.0\MathGame.exe
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Math Game C# Academy\MathGame\MathGame\bin\Debug\net8.0\MathGame.deps.json
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Math Game C# Academy\MathGame\MathGame\bin\Debug\net8.0\MathGame.runtimeconfig.json
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Math Game C# Academy\MathGame\MathGame\bin\Debug\net8.0\MathGame.dll
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Math Game C# Academy\MathGame\MathGame\bin\Debug\net8.0\MathGame.pdb
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Math Game C# Academy\MathGame\MathGame\obj\Debug\net8.0\MathGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Math Game C# Academy\MathGame\MathGame\obj\Debug\net8.0\MathGame.AssemblyInfoInputs.cache
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Math Game C# Academy\MathGame\MathGame\obj\Debug\net8.0\MathGame.AssemblyInfo.cs
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Math Game C# Academy\MathGame\MathGame\obj\Debug\net8.0\MathGame.csproj.CoreCompileInputs.cache
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Math Game C# Academy\MathGame\MathGame\obj\Debug\net8.0\MathGame.sourcelink.json
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Math Game C# Academy\MathGame\MathGame\obj\Debug\net8.0\MathGame.dll
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Math Game C# Academy\MathGame\MathGame\obj\Debug\net8.0\refint\MathGame.dll
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Math Game C# Academy\MathGame\MathGame\obj\Debug\net8.0\MathGame.pdb
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Math Game C# Academy\MathGame\MathGame\obj\Debug\net8.0\MathGame.genruntimeconfig.cache
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Math Game C# Academy\MathGame\MathGame\obj\Debug\net8.0\ref\MathGame.dll
