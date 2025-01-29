@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thisa\\OneDrive\\Desktop\\My Projects\\C# Practice Projects\\C#FullCourse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA69BB5-B907-4E33-AE80-7F51826C337E}|C#FullCourse\\C#FullCourse.csproj|c:\\users\\thisa\\onedrive\\desktop\\my projects\\c# practice projects\\c#fullcourse\\c#fullcourse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA69BB5-B907-4E33-AE80-7F51826C337E}|C#FullCourse\\C#FullCourse.csproj|solutionrelative:c#fullcourse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 303,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thisa\\OneDrive\\Desktop\\My Projects\\C# Practice Projects\\C#FullCourse\\C#FullCourse\\Program.cs",
+              "RelativeDocumentMoniker": "C#FullCourse\\Program.cs",
+              "ToolTip": "C:\\Users\\thisa\\OneDrive\\Desktop\\My Projects\\C# Practice Projects\\C#FullCourse\\C#FullCourse\\Program.cs",
+              "RelativeToolTip": "C#FullCourse\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T14:32:28.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 197,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
