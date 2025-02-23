@@ -1,0 +1,5 @@
+2025-02-15 11:18:42.602 +05:30 [INF] Hello, world!
+2025-02-15 11:18:42.691 +05:30 [DBG] Dividing 10 by 0
+2025-02-15 11:18:42.718 +05:30 [ERR] Something went wrong
+System.DivideByZeroException: Attempted to divide by zero.
+   at Program.Main() in C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\DiceGame\DiceGame\Program.cs:line 20

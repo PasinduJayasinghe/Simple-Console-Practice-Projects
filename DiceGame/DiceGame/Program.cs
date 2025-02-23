@@ -1,65 +1,31 @@
 ﻿using System;
-using System.Diagnostics;
+using Serilog;
 
-namespace DiceGame
+class Program
 {
-	class Program
-	{
-		
-		static void Main(string[] args)
-		{ 
-        int playerRandomNumber;
-        int enemyAIRandomNumber;
-		int playerScore = 0;
-		int enemyAIScore = 0;
+    static async Task Main()
+    {
+        Log.Logger = new LoggerConfiguration()
+            .MinimumLevel.Debug()
+            .WriteTo.Console()
+            .WriteTo.File("logs/myapp.txt", rollingInterval: RollingInterval.Day)
+            .CreateLogger();
 
-        Random random = new Random();
-		
-			for (int i = 0; i < 10; i++)
-			{
-				Console.WriteLine("Press a key to generate a number");
-				Console.ReadKey();
-                playerRandomNumber = random.Next(1, 7);
-                Console.WriteLine("Player random number is "+ playerRandomNumber);
+        Log.Information("Hello, world!");
 
-			    enemyAIRandomNumber = random.Next(1, 7);
-				Console.WriteLine("Enemy AI random number is "+ enemyAIRandomNumber);
-
-				if (playerRandomNumber > enemyAIRandomNumber)
-				{
-					Console.WriteLine("Player wins!\n");
-					playerScore++;
-					Console.WriteLine("Player Score\n " + playerScore);
-					Console.WriteLine("Enemy AI Score\n " + enemyAIScore);
-				}
-				else if (playerRandomNumber < enemyAIRandomNumber)
-				{
-					Console.WriteLine("Enemy AI wins!\n");
-					enemyAIScore++;
-					Console.WriteLine("Player Score\n " + playerScore);
-					Console.WriteLine("Enemy AI Score\n " + enemyAIScore);
-				}
-				else
-				{
-                    Console.WriteLine("Draw!\n");
-                    Console.WriteLine("Player Score\n " + playerScore);
-                    Console.WriteLine("Enemy AI Score\n "  + enemyAIScore);
-                }
-
-            }
-			if (playerScore > enemyAIScore)
-			{
-				Console.WriteLine("Player Wins!");
-			}
-			else if (playerScore<enemyAIScore)
-			{
-                Console.WriteLine("EnemyAI Wins!");
-            }
-            else
-            {
-                Console.WriteLine("Draw!");
-            }
+        int a = 10, b = 0;
+        try
+        {
+            Log.Debug("Dividing {A} by {B}", a, b);
+            Console.WriteLine(a / b);
         }
-
-	}
+        catch (Exception ex)
+        {
+            Log.Error(ex, "Something went wrong");
+        }
+        finally
+        {
+            await Log.CloseAndFlushAsync();
+        }
+    }
 }

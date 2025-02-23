@@ -1,18 +1,43 @@
-﻿using System.Collections.Generic;
+﻿using System;
 
-Dictionary<int,string> name=new Dictionary<int,string>();
-name.Add(0, "Pasindu");
-name.Add(1, "thisara");
-name.Add(2, "Shanuka");
-
-for (int i = 0; i < name.Count; i++)
+namespace Structures
 {
-    Console.WriteLine(name);
+    class Program
+    {
+        struct Person
+        {
+            public string name;
+            public int age;
+            public int birthmonth;
+
+            public Person(string name,int age,int birthmonth)
+            {
+                this.name = name;                
+                this.age = age;
+                this.birthmonth = birthmonth;
+            }
+        }
+        static void Main(string[] args)
+        {
+            Person person=ReturnPerson();
+            Console.WriteLine($"{person.name} {person.age} {person.birthmonth}");
+            Console.ReadLine();
+
+        }
+        static Person ReturnPerson() {
+            Console.WriteLine("Enter your name");
+            string name = Console.ReadLine();
+            Console.WriteLine("Enter your age");
+            int age = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter your birth month");
+            int birthmonth=Convert.ToInt32(Console.ReadLine());
+            /*Person person;
+            person.name = name;
+            person.age = age;
+            person.birthmonth = birthmonth;
+            return person;*/
+            return new Person(name,age,birthmonth);
+        } 
+
+    }
 }
-
-Dictionary<int, string> name2 = new Dictionary<int, string>
-{
-    {1,"asas" },
-    {2,"asas" },
-    {3,"shhsa" }
-};

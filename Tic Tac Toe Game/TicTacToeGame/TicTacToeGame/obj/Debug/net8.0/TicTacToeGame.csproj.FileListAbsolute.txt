@@ -1,0 +1,15 @@
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Tic Tac Toe Game\TicTacToeGame\TicTacToeGame\bin\Debug\net8.0\TicTacToeGame.exe
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Tic Tac Toe Game\TicTacToeGame\TicTacToeGame\bin\Debug\net8.0\TicTacToeGame.deps.json
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Tic Tac Toe Game\TicTacToeGame\TicTacToeGame\bin\Debug\net8.0\TicTacToeGame.runtimeconfig.json
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Tic Tac Toe Game\TicTacToeGame\TicTacToeGame\bin\Debug\net8.0\TicTacToeGame.dll
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Tic Tac Toe Game\TicTacToeGame\TicTacToeGame\bin\Debug\net8.0\TicTacToeGame.pdb
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Tic Tac Toe Game\TicTacToeGame\TicTacToeGame\obj\Debug\net8.0\TicTacToeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Tic Tac Toe Game\TicTacToeGame\TicTacToeGame\obj\Debug\net8.0\TicTacToeGame.AssemblyInfoInputs.cache
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Tic Tac Toe Game\TicTacToeGame\TicTacToeGame\obj\Debug\net8.0\TicTacToeGame.AssemblyInfo.cs
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Tic Tac Toe Game\TicTacToeGame\TicTacToeGame\obj\Debug\net8.0\TicTacToeGame.csproj.CoreCompileInputs.cache
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Tic Tac Toe Game\TicTacToeGame\TicTacToeGame\obj\Debug\net8.0\TicTacToeGame.sourcelink.json
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Tic Tac Toe Game\TicTacToeGame\TicTacToeGame\obj\Debug\net8.0\TicTacToeGame.dll
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Tic Tac Toe Game\TicTacToeGame\TicTacToeGame\obj\Debug\net8.0\refint\TicTacToeGame.dll
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Tic Tac Toe Game\TicTacToeGame\TicTacToeGame\obj\Debug\net8.0\TicTacToeGame.pdb
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Tic Tac Toe Game\TicTacToeGame\TicTacToeGame\obj\Debug\net8.0\TicTacToeGame.genruntimeconfig.cache
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\Tic Tac Toe Game\TicTacToeGame\TicTacToeGame\obj\Debug\net8.0\ref\TicTacToeGame.dll

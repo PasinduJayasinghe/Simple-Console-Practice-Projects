@@ -12,3 +12,9 @@ C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\DiceGame\DiceGa
 C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\DiceGame\DiceGame\obj\Debug\net8.0\DiceGame.pdb
 C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\DiceGame\DiceGame\obj\Debug\net8.0\DiceGame.genruntimeconfig.cache
 C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\DiceGame\DiceGame\obj\Debug\net8.0\ref\DiceGame.dll
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\DiceGame\DiceGame\bin\Debug\net8.0\Serilog.dll
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\DiceGame\DiceGame\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\DiceGame\DiceGame\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\DiceGame\DiceGame\obj\Debug\net8.0\DiceGame.csproj.AssemblyReference.cache
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\DiceGame\DiceGame\obj\Debug\net8.0\DiceGame.sourcelink.json
+C:\Users\thisa\OneDrive\Desktop\My Projects\C# Practice Projects\DiceGame\DiceGame\obj\Debug\net8.0\DiceGame.csproj.Up2Date
