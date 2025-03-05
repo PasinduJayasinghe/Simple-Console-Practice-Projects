@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thisa\\OneDrive\\Desktop\\My Projects\\C# Practice Projects\\QuizzApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAAC444-7B63-44A7-94F4-66BBCDCBC76D}|QuizzApp\\QuizzApp.csproj|c:\\users\\thisa\\onedrive\\desktop\\my projects\\c# practice projects\\quizzapp\\quizzapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAAC444-7B63-44A7-94F4-66BBCDCBC76D}|QuizzApp\\QuizzApp.csproj|solutionrelative:quizzapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 303,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thisa\\OneDrive\\Desktop\\My Projects\\C# Practice Projects\\QuizzApp\\QuizzApp\\Program.cs",
+              "RelativeDocumentMoniker": "QuizzApp\\Program.cs",
+              "ToolTip": "C:\\Users\\thisa\\OneDrive\\Desktop\\My Projects\\C# Practice Projects\\QuizzApp\\QuizzApp\\Program.cs",
+              "RelativeToolTip": "QuizzApp\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwDsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:50:18.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 197,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
