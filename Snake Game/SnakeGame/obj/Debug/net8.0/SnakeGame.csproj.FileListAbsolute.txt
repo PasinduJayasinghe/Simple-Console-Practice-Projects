@@ -1,0 +1,15 @@
+C:\Users\Pasindu\Desktop\Simple Projects\Simple-Console-Practice-Projects\Snake Game\SnakeGame\bin\Debug\net8.0\SnakeGame.exe
+C:\Users\Pasindu\Desktop\Simple Projects\Simple-Console-Practice-Projects\Snake Game\SnakeGame\bin\Debug\net8.0\SnakeGame.deps.json
+C:\Users\Pasindu\Desktop\Simple Projects\Simple-Console-Practice-Projects\Snake Game\SnakeGame\bin\Debug\net8.0\SnakeGame.runtimeconfig.json
+C:\Users\Pasindu\Desktop\Simple Projects\Simple-Console-Practice-Projects\Snake Game\SnakeGame\bin\Debug\net8.0\SnakeGame.dll
+C:\Users\Pasindu\Desktop\Simple Projects\Simple-Console-Practice-Projects\Snake Game\SnakeGame\bin\Debug\net8.0\SnakeGame.pdb
+C:\Users\Pasindu\Desktop\Simple Projects\Simple-Console-Practice-Projects\Snake Game\SnakeGame\obj\Debug\net8.0\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pasindu\Desktop\Simple Projects\Simple-Console-Practice-Projects\Snake Game\SnakeGame\obj\Debug\net8.0\SnakeGame.AssemblyInfoInputs.cache
+C:\Users\Pasindu\Desktop\Simple Projects\Simple-Console-Practice-Projects\Snake Game\SnakeGame\obj\Debug\net8.0\SnakeGame.AssemblyInfo.cs
+C:\Users\Pasindu\Desktop\Simple Projects\Simple-Console-Practice-Projects\Snake Game\SnakeGame\obj\Debug\net8.0\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\Pasindu\Desktop\Simple Projects\Simple-Console-Practice-Projects\Snake Game\SnakeGame\obj\Debug\net8.0\SnakeGame.sourcelink.json
+C:\Users\Pasindu\Desktop\Simple Projects\Simple-Console-Practice-Projects\Snake Game\SnakeGame\obj\Debug\net8.0\SnakeGame.dll
+C:\Users\Pasindu\Desktop\Simple Projects\Simple-Console-Practice-Projects\Snake Game\SnakeGame\obj\Debug\net8.0\refint\SnakeGame.dll
+C:\Users\Pasindu\Desktop\Simple Projects\Simple-Console-Practice-Projects\Snake Game\SnakeGame\obj\Debug\net8.0\SnakeGame.pdb
+C:\Users\Pasindu\Desktop\Simple Projects\Simple-Console-Practice-Projects\Snake Game\SnakeGame\obj\Debug\net8.0\SnakeGame.genruntimeconfig.cache
+C:\Users\Pasindu\Desktop\Simple Projects\Simple-Console-Practice-Projects\Snake Game\SnakeGame\obj\Debug\net8.0\ref\SnakeGame.dll
