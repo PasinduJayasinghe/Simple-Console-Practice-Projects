@@ -1,0 +1,14 @@
+C:\Users\thisa\OneDrive\Desktop\My Projects\Management System\ManagementSystem\ManagementSystem\bin\Debug\net8.0\ManagementSystem.exe
+C:\Users\thisa\OneDrive\Desktop\My Projects\Management System\ManagementSystem\ManagementSystem\bin\Debug\net8.0\ManagementSystem.deps.json
+C:\Users\thisa\OneDrive\Desktop\My Projects\Management System\ManagementSystem\ManagementSystem\bin\Debug\net8.0\ManagementSystem.runtimeconfig.json
+C:\Users\thisa\OneDrive\Desktop\My Projects\Management System\ManagementSystem\ManagementSystem\bin\Debug\net8.0\ManagementSystem.dll
+C:\Users\thisa\OneDrive\Desktop\My Projects\Management System\ManagementSystem\ManagementSystem\bin\Debug\net8.0\ManagementSystem.pdb
+C:\Users\thisa\OneDrive\Desktop\My Projects\Management System\ManagementSystem\ManagementSystem\obj\Debug\net8.0\ManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thisa\OneDrive\Desktop\My Projects\Management System\ManagementSystem\ManagementSystem\obj\Debug\net8.0\ManagementSystem.AssemblyInfoInputs.cache
+C:\Users\thisa\OneDrive\Desktop\My Projects\Management System\ManagementSystem\ManagementSystem\obj\Debug\net8.0\ManagementSystem.AssemblyInfo.cs
+C:\Users\thisa\OneDrive\Desktop\My Projects\Management System\ManagementSystem\ManagementSystem\obj\Debug\net8.0\ManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\thisa\OneDrive\Desktop\My Projects\Management System\ManagementSystem\ManagementSystem\obj\Debug\net8.0\ManagementSystem.dll
+C:\Users\thisa\OneDrive\Desktop\My Projects\Management System\ManagementSystem\ManagementSystem\obj\Debug\net8.0\refint\ManagementSystem.dll
+C:\Users\thisa\OneDrive\Desktop\My Projects\Management System\ManagementSystem\ManagementSystem\obj\Debug\net8.0\ManagementSystem.pdb
+C:\Users\thisa\OneDrive\Desktop\My Projects\Management System\ManagementSystem\ManagementSystem\obj\Debug\net8.0\ManagementSystem.genruntimeconfig.cache
+C:\Users\thisa\OneDrive\Desktop\My Projects\Management System\ManagementSystem\ManagementSystem\obj\Debug\net8.0\ref\ManagementSystem.dll

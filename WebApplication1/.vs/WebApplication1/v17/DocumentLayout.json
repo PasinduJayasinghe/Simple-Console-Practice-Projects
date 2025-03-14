@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thisa\\OneDrive\\Desktop\\My Projects\\C# Practice Projects\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51143865-6C5F-408C-8DDD-CD0EEBB75353}|WebApplication1\\WebApplication1.csproj|c:\\users\\thisa\\onedrive\\desktop\\my projects\\c# practice projects\\webapplication1\\webapplication1\\servicelayer\\studentdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51143865-6C5F-408C-8DDD-CD0EEBB75353}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\servicelayer\\studentdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51143865-6C5F-408C-8DDD-CD0EEBB75353}|WebApplication1\\WebApplication1.csproj|c:\\users\\thisa\\onedrive\\desktop\\my projects\\c# practice projects\\webapplication1\\webapplication1\\students\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51143865-6C5F-408C-8DDD-CD0EEBB75353}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\students\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51143865-6C5F-408C-8DDD-CD0EEBB75353}|WebApplication1\\WebApplication1.csproj|c:\\users\\thisa\\onedrive\\desktop\\my projects\\c# practice projects\\webapplication1\\webapplication1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51143865-6C5F-408C-8DDD-CD0EEBB75353}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51143865-6C5F-408C-8DDD-CD0EEBB75353}|WebApplication1\\WebApplication1.csproj|c:\\users\\thisa\\onedrive\\desktop\\my projects\\c# practice projects\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51143865-6C5F-408C-8DDD-CD0EEBB75353}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thisa\\OneDrive\\Desktop\\My Projects\\C# Practice Projects\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\thisa\\OneDrive\\Desktop\\My Projects\\C# Practice Projects\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:50:23.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\thisa\\OneDrive\\Desktop\\My Projects\\C# Practice Projects\\WebApplication1\\WebApplication1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\thisa\\OneDrive\\Desktop\\My Projects\\C# Practice Projects\\WebApplication1\\WebApplication1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwDwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:14:26.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentDataService.cs",
+              "DocumentMoniker": "C:\\Users\\thisa\\OneDrive\\Desktop\\My Projects\\C# Practice Projects\\WebApplication1\\WebApplication1\\ServiceLayer\\StudentDataService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ServiceLayer\\StudentDataService.cs",
+              "ToolTip": "C:\\Users\\thisa\\OneDrive\\Desktop\\My Projects\\C# Practice Projects\\WebApplication1\\WebApplication1\\ServiceLayer\\StudentDataService.cs",
+              "RelativeToolTip": "WebApplication1\\ServiceLayer\\StudentDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:05:34.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\thisa\\OneDrive\\Desktop\\My Projects\\C# Practice Projects\\WebApplication1\\WebApplication1\\Students\\Student.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Students\\Student.cs",
+              "ToolTip": "C:\\Users\\thisa\\OneDrive\\Desktop\\My Projects\\C# Practice Projects\\WebApplication1\\WebApplication1\\Students\\Student.cs",
+              "RelativeToolTip": "WebApplication1\\Students\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:04:18.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

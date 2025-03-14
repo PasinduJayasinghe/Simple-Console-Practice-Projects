@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thisa\\OneDrive\\Desktop\\My Projects\\Management System\\ManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE5DFD4-4EF9-42AD-A80A-D498F62BF371}|ManagementSystem\\ManagementSystem.csproj|c:\\users\\thisa\\onedrive\\desktop\\my projects\\management system\\managementsystem\\managementsystem\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE5DFD4-4EF9-42AD-A80A-D498F62BF371}|ManagementSystem\\ManagementSystem.csproj|solutionrelative:managementsystem\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE5DFD4-4EF9-42AD-A80A-D498F62BF371}|ManagementSystem\\ManagementSystem.csproj|c:\\users\\thisa\\onedrive\\desktop\\my projects\\management system\\managementsystem\\managementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE5DFD4-4EF9-42AD-A80A-D498F62BF371}|ManagementSystem\\ManagementSystem.csproj|solutionrelative:managementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE5DFD4-4EF9-42AD-A80A-D498F62BF371}|ManagementSystem\\ManagementSystem.csproj|c:\\users\\thisa\\onedrive\\desktop\\my projects\\management system\\managementsystem\\managementsystem\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE5DFD4-4EF9-42AD-A80A-D498F62BF371}|ManagementSystem\\ManagementSystem.csproj|solutionrelative:managementsystem\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 303,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\thisa\\OneDrive\\Desktop\\My Projects\\Management System\\ManagementSystem\\ManagementSystem\\Manager.cs",
+              "RelativeDocumentMoniker": "ManagementSystem\\Manager.cs",
+              "ToolTip": "C:\\Users\\thisa\\OneDrive\\Desktop\\My Projects\\Management System\\ManagementSystem\\ManagementSystem\\Manager.cs",
+              "RelativeToolTip": "ManagementSystem\\Manager.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAD4v+0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T10:54:23.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\thisa\\OneDrive\\Desktop\\My Projects\\Management System\\ManagementSystem\\ManagementSystem\\Person.cs",
+              "RelativeDocumentMoniker": "ManagementSystem\\Person.cs",
+              "ToolTip": "C:\\Users\\thisa\\OneDrive\\Desktop\\My Projects\\Management System\\ManagementSystem\\ManagementSystem\\Person.cs",
+              "RelativeToolTip": "ManagementSystem\\Person.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T10:50:18.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thisa\\OneDrive\\Desktop\\My Projects\\Management System\\ManagementSystem\\ManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\thisa\\OneDrive\\Desktop\\My Projects\\Management System\\ManagementSystem\\ManagementSystem\\Program.cs",
+              "RelativeToolTip": "ManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T10:37:15.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 197,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
